@@ -27,6 +27,12 @@ BRAKE is a Python-powered tool that simplifies the process of learning the Belgi
    ```
 
 ## 📋 Usage
+Precompiled flashcards are available for easy download and import:  
+
+- [Download the latest flashcards](https://github.com/DesignThinkerer/BRAKE/releases)  
+
+If you'd like to customize the flashcards or generate them from scratch, follow the instructions below.
+
 1. Launch the script and follow the prompts to scrape the Belgian road code.
 2. Customize flashcards as needed using the built-in options.
 3. Export the generated flashcards to a TiddlyWiki file for easy access and study.
