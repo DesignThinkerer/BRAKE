@@ -1,4 +1,6 @@
-# BRAKE  
+# BRAKE
+![Project Status: Work in Progress](https://img.shields.io/badge/Project%20Status-Work%20in%20Progress-yellow)
+
 **Belgian Road Automated Knowledge Engine**  
 
 BRAKE is a Python-powered tool that simplifies the process of learning the Belgian road code. By leveraging web scraping and TiddlyWiki integration, BRAKE automatically generates tiddlywiki-compatible flashcards to help learners study efficiently and retain information effectively.  
