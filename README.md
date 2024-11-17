@@ -3,7 +3,7 @@
 
 **Belgian Road Automated Knowledge Engine**  
 
-BRAKE is a Python-powered tool that simplifies the process of learning the Belgian road code. By leveraging web scraping and TiddlyWiki integration, BRAKE automatically generates tiddlywiki-compatible flashcards to help learners study efficiently and retain information effectively.  
+BRAKE is a Python-powered tool that simplifies the process of learning the Belgian road code. By leveraging web scraping and TiddlyWiki integration, BRAKE automatically generates tiddlywiki-compatible flashcards to help learners study efficiently and retain information effectively.
 
 ## 🚀 Features  
 - **Automated Flashcard Creation**: Scrapes the official Belgian road code to generate flashcards for quick and effective learning.  
