@@ -27,9 +27,21 @@ BRAKE is a Python-powered tool that simplifies the process of learning the Belgi
    ```
 
 ## 📋 Usage
-Precompiled flashcards are available for easy download and import:  
 
-- [Download the latest flashcards](https://github.com/DesignThinkerer/BRAKE/releases)  
+We provide multiple options to get started:
+
+1. **Ready-to-Use TiddlyWiki**  
+   - [Download the Ready-to-Use TiddlyWiki](https://github.com/DesignThinkerer/BRAKE/releases/latest/download/BRAKE_TiddlyWiki.html)
+   - Open it in your browser and save locally after editing.  
+
+2. **Create Your Own Wiki on Tiddlyhost**  
+   Want a hosted solution? Use our template on Tiddlyhost to get started immediately:  
+   - [Get Your Own Wiki on Tiddlyhost](https://tiddlyhost.com/?template=BRAKE_Template)  
+
+3. **Import the Flashcards as a Plugin**  
+   Already have a TiddlyWiki?  
+   - [Download the flashcard plugin](https://github.com/DesignThinkerer/BRAKE/releases/latest/download/BRAKE_Flashcards_Plugin.json)
+
 
 If you'd like to customize the flashcards or generate them from scratch, follow the instructions below.
 
